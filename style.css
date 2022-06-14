@@ -20,3 +20,7 @@ h1, h2 {
 li {
     color: brown;
 }
+
+dt {
+    font-weight: bold;
+}
