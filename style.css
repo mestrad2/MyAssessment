@@ -1,5 +1,22 @@
 /* add code here to make your image 300px square */
+#pet {
+    max-width: 500px; /* Sets the max width to 500px*/
+    max-height: 300px; /* Sets the max height to 300px*/
+    height: 300px; /* Sets the current height to 500px*/
+    width: auto; /* Whenever the height gets adjusted, the width will scale with the new height*/
+}
 
+#mixDog {
+    height: 150px;
+    width: auto;
+}
 /* add code here to change the color and font family of your name/title */
-
+h1, h2 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
 /* Bonus: change the color of your list elements */
+
+li {
+    color: brown;
+}
